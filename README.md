@@ -1,2 +1,4 @@
-# LINALG
-Linear Algebra:  Fourth Edition, Prentice Hall
+## Linear Algebra
+### Fourth Edition
+#### Friedberg, Insel, Spence
+Solutions
