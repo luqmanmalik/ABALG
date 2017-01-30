@@ -1,4 +1,4 @@
-## Linear Algebra
-### Fourth Edition
-#### Friedberg, Insel, Spence
+## Abstract Algebra
+### Theory and Applications
+#### Judson, Beezer
 Solutions
