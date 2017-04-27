@@ -1,4 +1,4 @@
 ## Abstract Algebra
 ### Theory and Applications
 #### Judson, Beezer
-Solutions
+Proofs and applications in relational algebra and automata theory
